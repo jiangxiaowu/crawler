@@ -1,0 +1,9 @@
+[{
+    "site": [
+        "voltag.ru"
+    ],
+    "sku": [
+        "69-8213"
+    ],
+    "description": "## SHN2665\n\nЩеткодержатель стартера\n\n![Щеткодержатель стартера\nSHN2665](https://cdn3.voltag.ru/17/5f/36b29d20a1d8b9674502ee47ea40.jpg)\n\n![Щеткодержатель стартера\nSHN2665](https://cdn2.voltag.ru/a0/7f/0139fb133ca786f933c525109025.jpg)\n\n**od:**|\n\n57.5\n\nmm  \n---|---  \n**id:**|\n\n12\n\nmm  \n**wb:**|  8 mm  \n**hb:**|  17 mm  \n**mt:**|  plastic  \n**bq:**|  4 pcs  \n**lb:**|  29 mm  \n  \nCG 237540  \n---  \nCG 332665  \nIKA 776061  \nKR SHN2665KS  \nKR SHN2665MG  \nND 1280996312  \nSUB 23337AA160  \nTO 2813028040  \n  \n2280009901, 23300AA480, 4280000150, 4280000151, 4280000152, 4280003040,\n4280003090, 4280005871, SHN8040BL, STN0670YN, STN0670ZD, STN1363BL, STN1363RN,\nSTN1363WA, STN1363XY\n\nTOYOTA Avensis 2.0 VVT-i M20 2001- // TOYOTA RAV 4 III 2.0 VVT-i 4WD XA3 2006-\n// TOYOTA Camry 3.0 V6 2001- // LEXUS RX300 II 3.3 V6 2003-\n\n"
+}]
