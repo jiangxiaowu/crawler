@@ -6,9 +6,13 @@ from items import TutorialItem
 
 class ExampleSpider(scrapy.Spider):
     name = 'example'
-    start_urls = ['https://voltag.ru/catalog/list/?q=69-8213']
+    start_urls = [
+        'https://voltag.ru/catalog/list/?q=69-8213'
+    ]
     custom_settings = {
         'FEED_EXPORT_ENCODING': 'utf-8',
+        'FEED_URI': 'data/items.csv',
+        'FEED_FORMAT': 'csv'
     }
 
     def parse(self, response):
