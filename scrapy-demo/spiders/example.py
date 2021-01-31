@@ -10,7 +10,7 @@ class ExampleSpider(scrapy.Spider):
         'https://voltag.ru/catalog/list/?q=69-8213'
     ]
     custom_settings = {
-        'FEED_EXPORT_ENCODING': 'utf-8',
+        'FEED_EXPORT_ENCODING': 'GBK',
         'FEED_URI': 'data/items.csv',
         'FEED_FORMAT': 'csv'
     }
